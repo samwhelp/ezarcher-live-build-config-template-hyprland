@@ -1,2 +1,20 @@
-# ezarcher-live-build-config-template-hyprland
-ezarcher-live-build-config-template-hyprland
+
+
+# Home
+
+> [ezarcher-live-build-config-template-hyprland](https://github.com/samwhelp/ezarcher-live-build-config-template-hyprland)
+
+| Project |
+| ------- |
+| [ezarcher-live-build-config-template-hyprland](https://github.com/samwhelp/ezarcher-live-build-config-template-hyprland) |
+| `+` |
+| [ezarcher-live-build-remix-hyprland](https://github.com/samwhelp/ezarcher-live-build-remix-hyprland) |
+| `=` |
+| [ezarcher-live-build-respin-hyprland](https://github.com/samwhelp/ezarcher-live-build-respin-hyprland) |
+
+
+
+
+## Version
+
+> SourceForge / Ezarcher / [Files](https://sourceforge.net/projects/ezarch/files/) / 20251101
